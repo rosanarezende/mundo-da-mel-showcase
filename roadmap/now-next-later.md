@@ -1,15 +1,10 @@
-# Roadmap
-
-Este roadmap organiza as iniciativas públicas por horizonte de entrega.
+# Now / Next / Later
 
 ## Now
-
-Iniciativas em execução, implantação ou consolidação imediata.
+- [Automação segura do showcase público do Mundo da Mel](../initiatives/showcase-public-repo-automation/summary.md) — Estruturei um fluxo para transformar trabalho real de produto em narrativa pública revisável, sem expor operação sensível do negócio.
 
 ## Next
-
-Iniciativas já priorizadas para o próximo ciclo, mas ainda não em execução principal.
+- Nenhuma iniciativa pública em Next ainda.
 
 ## Later
-
-Iniciativas relevantes para a visão do projeto, porém deliberadamente adiadas.
+- Nenhuma iniciativa pública em Later ainda.
