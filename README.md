@@ -2,6 +2,19 @@
 
 Showcase público com decisões de produto, roadmap, iniciativas e marcos de execução derivados do trabalho real do projeto privado do Mundo da Mel.
 
+## Iniciativa em destaque
+
+### [Automação segura do showcase público do Mundo da Mel](initiatives/showcase-public-repo-automation/summary.md)
+
+Este primeiro case mostra a transição de um projeto privado para uma operação com memória institucional, rastreabilidade de decisão e vitrine pública sanitizada.
+
+O que ele demonstra:
+
+- capacidade de transformar problema operacional em sistema
+- tomada de decisão com trade-offs explícitos
+- evolução de governança, não só de código
+- preocupação com segurança, narrativa e manutenção de longo prazo
+
 ## O que este repositório mostra
 
 - contexto de negócio e problema atacado
@@ -18,8 +31,8 @@ Showcase público com decisões de produto, roadmap, iniciativas e marcos de exe
 ## Como navegar
 
 1. Comece em `roadmap/now-next-later.md`
-2. Leia uma iniciativa em `initiatives/`
-3. Aprofunde a decisão correspondente em `decisions/`
+2. Leia a iniciativa em destaque em `initiatives/showcase-public-repo-automation/summary.md`
+3. Aprofunde a decisão correspondente em `decisions/showcase-public-repo-automation.md`
 4. Use `timeline/` para acompanhar a evolução ao longo do tempo
 
 ## Estrutura
@@ -40,3 +53,9 @@ Parte do conteúdo é gerada automaticamente a partir do repositório privado, s
 - expor trade-offs reais, não narrativas perfeitas
 - manter clareza executiva para gestores e stakeholders
 - preservar segurança e contexto competitivo do negócio
+
+## O que observar no primeiro case
+
+- o problema original não era “falta de marketing pessoal”, e sim falta de sistema para transformar trabalho real em evidência pública segura
+- a solução precisou conciliar automação, governança e narrativa editorial
+- o resultado observado já inclui criação da fundação do showcase, publicação do primeiro case e reruns idempotentes do fluxo

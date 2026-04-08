@@ -24,7 +24,7 @@ Criar um histórico público, revisável e reutilizável de decisões de produto
 
 ## Resultado observado
 
-Aguardando primeira publicação via PR no repositório público de showcase.
+O showcase público deixou de ser apenas ideia de portfólio e passou a operar como trilha real de decisões. A iniciativa consolidou a fundação editorial do repositório público, validou a automação de publicação e criou um caminho repetível para novos cases.
 
 ## Referência interna
 
