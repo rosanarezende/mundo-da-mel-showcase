@@ -28,9 +28,10 @@ Criar um histórico público, revisável e reutilizável de decisões de produto
 
 ## Impacto observado
 
-Aguardando primeira publicação via PR no repositório público de showcase.
+O fluxo foi validado de ponta a ponta, incluindo geração dos artefatos públicos, criação e atualização do PR no repositório de showcase e preservação da fundação editorial da vitrine durante reruns.
 
 ## Status
 
 - Horizonte: Now
 - Origem: iniciativa curada do repositório privado do Mundo da Mel
+- Situação atual: primeira iniciativa pública publicada e fluxo pronto para receber novos cases

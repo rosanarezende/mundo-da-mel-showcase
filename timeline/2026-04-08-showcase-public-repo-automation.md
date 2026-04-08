@@ -14,4 +14,4 @@ Escolhi publicar só decisões e roadmap em vez de código. Isso reduz dramatica
 
 ## Próximo passo
 
-Revisar o PR público correspondente e atualizar o impacto observado quando houver aprendizado concreto.
+Expandir a vitrine com novos cases de produto, growth, conteúdo ou governança usando o mesmo padrão de problema, decisão, trade-offs e impacto.
