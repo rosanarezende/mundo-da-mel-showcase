@@ -2,6 +2,14 @@
 
 Showcase público com decisões de produto, roadmap, iniciativas e marcos de execução derivados do trabalho real do projeto privado do Mundo da Mel.
 
+## Como esta vitrine se conecta à minha trajetória
+
+Esta vitrine é a fase atual de uma jornada que começou com exploração intensa de IA no ciclo de desenvolvimento e evoluiu para governança, rastreabilidade e tomada de decisão de produto.
+
+Marco anterior da jornada:
+
+- [balanceamento-de-investimentos](https://github.com/rosanarezende/balanceamento-de-investimentos) — laboratório prático de exploração de ferramentas e agentes de IA no desenvolvimento.
+
 ## Iniciativa em destaque
 
 ### [Automação segura do showcase público do Mundo da Mel](initiatives/showcase-public-repo-automation/summary.md)
