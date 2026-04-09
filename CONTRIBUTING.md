@@ -25,6 +25,12 @@ Exemplos:
 
 ## Regras
 
+- não publicar conteúdo sensível
+- não sobrescrever a lógica do fluxo automático com convenções paralelas
+- manter foco em clareza para entrevistas, gestores e stakeholders
+- preferir textos curtos, concretos e rastreáveis
+- manter títulos e descrições em PT-BR
+
 
 ## Workflow obrigatório para IA
 

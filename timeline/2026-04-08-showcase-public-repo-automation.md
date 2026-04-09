@@ -19,7 +19,11 @@ flowchart LR
 
 ## Trade-offs do marco
 
-Escolhi publicar só decisões e roadmap em vez de código. Isso reduz dramaticamente o risco de vazamento e torna o processo mais sustentável, ainda que o showcase inicial fique menos técnico.
+O trade-off principal deste marco foi priorizar segurança e repetibilidade (decisões + roadmap) em vez de profundidade técnica pública por código.
+
+Detalhamento completo:
+
+- `decisions/showcase-public-repo-automation.md`
 
 ## Próximo passo
 
