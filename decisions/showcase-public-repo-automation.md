@@ -1,12 +1,18 @@
 # Decisão — Automação segura do showcase público do Mundo da Mel
 
-## Contexto
+## Contexto resumido
 
-O projeto já acumulava decisões importantes de produto e governança, mas todo esse aprendizado ficava preso ao repositório privado e à memória operacional, reduzindo a capacidade de apresentar evolução profissional de forma segura.
+Esta é a visão de decisão do case canônico.
 
-## Por que agora
+Fonte principal:
 
-O Mundo da Mel acabou de ganhar uma base de SDD e rastreabilidade. Este é o momento certo para conectar essa governança a uma vitrine pública antes que as próximas iniciativas se dispersem sem um trilho editorial claro.
+- `initiatives/showcase-public-repo-automation/summary.md`
+
+Objetivo desta página:
+
+- destacar a decisão tomada
+- explicitar consequências e trade-offs
+- facilitar reuso em novos projetos
 
 ## Alternativas consideradas
 
@@ -16,7 +22,18 @@ O Mundo da Mel acabou de ganhar uma base de SDD e rastreabilidade. Este é o mom
 
 ## Trade-offs da decisão
 
-Escolhi publicar só decisões e roadmap em vez de código. Isso reduz dramaticamente o risco de vazamento e torna o processo mais sustentável, ainda que o showcase inicial fique menos técnico.
+| Opção | Ganho principal | Custo/Risco principal |
+|---|---|---|
+| Abrir repositório inteiro | Vitrine mais técnica | Alto risco de exposição operacional |
+| Copiar manualmente casos | Controle editorial total | Alto esforço e baixa escalabilidade |
+| Publicar decisões + roadmap | Segurança e sustentabilidade | Showcase inicial menos técnico |
+
+```mermaid
+flowchart TD
+	O[Opção escolhida: decisões + roadmap] --> C1[Reduz risco de vazamento]
+	O --> C2[Aumenta repetibilidade do fluxo]
+	O --> C3[Exige reforço de narrativa para contexto técnico]
+```
 
 ## Impacto esperado
 
@@ -26,6 +43,13 @@ Criar um histórico público, revisável e reutilizável de decisões de produto
 
 O showcase público deixou de ser apenas ideia de portfólio e passou a operar como trilha real de decisões. A iniciativa consolidou a fundação editorial do repositório público, validou a automação de publicação e criou um caminho repetível para novos cases.
 
+## IA Input
+
+- Uso: apoio na estruturação inicial de alternativas e critérios de decisão.
+- Papel humano: decisão final e aprovação editorial feitas pela Rosana.
+- Confiança: média-alta, com validação por execução real do fluxo.
+
 ## Referência interna
 
 - Iniciativa: `initiatives/showcase-public-repo-automation/summary.md`
+- Timeline: `timeline/2026-04-08-showcase-public-repo-automation.md`

@@ -43,6 +43,17 @@ O que ele demonstra:
 3. Aprofunde a decisão correspondente em `decisions/showcase-public-repo-automation.md`
 4. Use `timeline/` para acompanhar a evolução ao longo do tempo
 
+## Mapa visual de navegação
+
+```mermaid
+flowchart LR
+	A[Roadmap] --> B[Iniciativa canônica]
+	B --> C[Visão de decisão]
+	B --> D[Visão temporal]
+	C --> E[Aprendizados reutilizáveis]
+	D --> E
+```
+
 ## Estrutura
 
 - `roadmap/now-next-later.md`
