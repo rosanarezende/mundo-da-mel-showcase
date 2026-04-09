@@ -10,3 +10,9 @@ Cada entrada deve conectar:
 - iniciativa
 - decisão
 - impacto esperado ou observado
+
+Papel desta pasta:
+
+- registrar marco e status atual
+- apontar para iniciativa canônica e visão de decisão
+- evitar recontar o case completo
