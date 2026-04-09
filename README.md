@@ -43,6 +43,19 @@ O que ele demonstra:
 3. Aprofunde a decisão correspondente em `decisions/showcase-public-repo-automation.md`
 4. Use `timeline/` para acompanhar a evolução ao longo do tempo
 
+## Arquitetura canônica de leitura
+
+| Camada | Arquivo | Papel |
+|---|---|---|
+| Canônico | `initiatives/<slug>/summary.md` | Fonte principal da iniciativa |
+| Visão de decisão | `decisions/<slug>.md` | Consequências, trade-offs e critérios |
+| Visão temporal | `timeline/<date>-<slug>.md` | Marco, status atual e próximos passos |
+
+Regra editorial:
+
+- o conteúdo principal fica na iniciativa canônica
+- decision e timeline complementam, sem duplicar integralmente
+
 ## Mapa visual de navegação
 
 ```mermaid
