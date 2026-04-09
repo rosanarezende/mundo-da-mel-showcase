@@ -9,5 +9,7 @@ Antes de mergear um PR neste repositório, revisar:
 - presença de estrutura visual mínima (Mermaid e/ou quadro de trade-offs)
 - presença de IA Input quando houver influência de IA na decisão
 - presença de impacto observado com evidência e data
+- atualização do índice decisão -> ação -> resultado quando houver novas decisões
+- coerência com ritual quinzenal e indicadores de efetividade
 - ausência de dados sensíveis
 - consistência com o posicionamento da vitrine

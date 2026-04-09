@@ -79,6 +79,11 @@ flowchart LR
 - `timeline/`
 - `docs/`
 
+## Operação contínua
+
+- Ritual quinzenal: `docs/ritual-quinzenal-decisao.md`
+- Indicadores de efetividade: `docs/indicadores-efetividade.md`
+
 ## Como o conteúdo chega aqui
 
 Parte do conteúdo é gerada automaticamente a partir do repositório privado, sempre por PR e com sanitização. O restante é curado editorialmente para transformar execução real em uma vitrine clara de raciocínio de produto.

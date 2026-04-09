@@ -42,6 +42,11 @@ Quando a IA influenciar uma decisão relevante, registrar:
 - separar claramente expectativa inicial de resultado observado
 - atualizar conforme novos aprendizados do ciclo
 
+## Operação contínua
+
+- conduzir revisão quinzenal usando `docs/ritual-quinzenal-decisao.md`
+- monitorar efetividade com `docs/indicadores-efetividade.md`
+
 ## Checklist editorial
 
 - o problema está claro?

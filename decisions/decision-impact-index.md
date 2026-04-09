@@ -25,3 +25,15 @@ Adicionar uma nova linha quando houver:
 - decisão relevante com impacto observável
 - ação executada com evidência verificável
 - lição com potencial de reaplicação
+
+## Painel de efetividade
+
+Referência de medição: `../docs/indicadores-efetividade.md`
+
+| Ciclo | Tempo de contexto (min) | Reuso de decisão | Retrabalho evitado | Observação |
+|---|---:|---:|---:|---|
+| 2026-Q2-C1 | em coleta | em coleta | em coleta | baseline do modelo canônico + visual |
+
+Atualizar este painel no ritual quinzenal:
+
+- `../docs/ritual-quinzenal-decisao.md`
