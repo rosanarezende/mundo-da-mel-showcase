@@ -2,6 +2,17 @@
 
 Este repositório funciona melhor quando cada iniciativa pública consegue ser lida como um mini case study.
 
+## Modelo de publicação
+
+- canônico: `initiatives/<slug>/summary.md`
+- visão de decisão: `decisions/<slug>.md`
+- visão temporal: `timeline/<data>-<slug>.md`
+
+Regra:
+
+- o conteúdo principal vive no canônico
+- decision e timeline não duplicam o texto inteiro; sintetizam e apontam para a fonte
+
 ## Estrutura recomendada
 
 1. Problema
@@ -11,6 +22,15 @@ Este repositório funciona melhor quando cada iniciativa pública consegue ser l
 5. Trade-offs
 6. Impacto esperado
 7. Impacto observado
+8. IA Input (quando aplicável)
+
+## Estrutura visual mínima
+
+Cada case deve incluir ao menos:
+
+1. diagrama Mermaid de decisão -> ação -> resultado no canônico
+2. quadro de trade-offs no documento de decisão
+3. visão de marco/status no documento de timeline
 
 ## Sinais de um case forte
 
@@ -19,6 +39,7 @@ Este repositório funciona melhor quando cada iniciativa pública consegue ser l
 - os trade-offs mostram maturidade, não perfeição
 - o impacto esperado é legível para alguém que não conhece o projeto
 - o impacto observado distingue aprendizado real de expectativa inicial
+- há legibilidade visual para leitura rápida por humanos
 
 ## Uso prático
 
