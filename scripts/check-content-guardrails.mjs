@@ -10,9 +10,7 @@ const mustInclude = (filePath, entries, label) => {
   const content = fs.readFileSync(filePath, "utf8");
   for (const entry of entries) {
     if (!content.includes(entry)) {
-      failures.push(
-        `${label}: missing "${entry}" in ${path.relative(root, filePath)}`
-      );
+      failures.push(`${label}: missing "${entry}" in ${path.relative(root, filePath)}`);
     }
   }
   return content;
@@ -93,9 +91,7 @@ const decisionFiles = listMarkdownFiles(path.join(root, "decisions")).filter(
 for (const file of decisionFiles) {
   const content = mustInclude(file, ["## Referência interna"], "decision");
   if (!content.includes("../initiatives/")) {
-    failures.push(
-      `decision: missing initiative reference link in ${path.relative(root, file)}`
-    );
+    failures.push(`decision: missing initiative reference link in ${path.relative(root, file)}`);
   }
 }
 
@@ -106,14 +102,10 @@ const timelineFiles = listMarkdownFiles(path.join(root, "timeline")).filter(
 for (const file of timelineFiles) {
   const content = mustInclude(file, ["## Status atual", "## Referências"], "timeline");
   if (!content.includes("../initiatives/")) {
-    failures.push(
-      `timeline: missing initiative reference link in ${path.relative(root, file)}`
-    );
+    failures.push(`timeline: missing initiative reference link in ${path.relative(root, file)}`);
   }
   if (!content.includes("../decisions/")) {
-    failures.push(
-      `timeline: missing decision reference link in ${path.relative(root, file)}`
-    );
+    failures.push(`timeline: missing decision reference link in ${path.relative(root, file)}`);
   }
 }
 
