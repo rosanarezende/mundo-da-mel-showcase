@@ -25,9 +25,14 @@ Exemplos:
 
 ## Regras
 
-- não publicar conteúdo sensível
-- não sobrescrever a lógica do fluxo automático com convenções paralelas
-- manter foco em clareza para entrevistas, gestores e stakeholders
-- preferir textos curtos, concretos e rastreáveis
+
+## Workflow obrigatório para IA
+
+- antes de qualquer edição, confirmar branch atual
+- se estiver em `main`, criar branch dedicada e só depois editar
+- fazer commits incrementais por unidade lógica
+- não versionar artefatos operacionais locais (ex.: `bp-*.json`)
+- abrir PR sempre em modo Draft com descrição completa
+- converter Draft para Ready somente após validação da Rosana
 
 Antes de abrir PR, revise `docs/editorial-guidelines.md` e `docs/review-checklist.md`.
