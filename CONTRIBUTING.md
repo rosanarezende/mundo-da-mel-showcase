@@ -42,7 +42,6 @@ Comandos sugeridos:
 
 Aplicar antes de abrir PR quando houver mudanças em docs.
 
-
 ## Workflow obrigatório para IA
 
 - antes de qualquer edição, confirmar branch atual

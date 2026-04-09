@@ -38,20 +38,20 @@ O que ele demonstra:
 
 ## Como navegar
 
-1. Comece em `roadmap/now-next-later.md`
-2. Leia a iniciativa em destaque em `initiatives/showcase-public-repo-automation/summary.md`
-3. Aprofunde a decisão correspondente em `decisions/showcase-public-repo-automation.md`
-4. Use `timeline/` para acompanhar a evolução ao longo do tempo
-5. Consulte o índice de impacto em `decisions/decision-impact-index.md`
-6. Reaplique padrões em `adrs/`
+1. Comece em [roadmap/now-next-later.md](roadmap/now-next-later.md)
+2. Leia a iniciativa em destaque em [initiatives/showcase-public-repo-automation/summary.md](initiatives/showcase-public-repo-automation/summary.md)
+3. Aprofunde a decisão correspondente em [decisions/showcase-public-repo-automation.md](decisions/showcase-public-repo-automation.md)
+4. Use [timeline/](timeline/README.md) para acompanhar a evolução ao longo do tempo
+5. Consulte o índice de impacto em [decisions/decision-impact-index.md](decisions/decision-impact-index.md)
+6. Reaplique padrões em [adrs/](adrs/README.md)
 
 ## Arquitetura canônica de leitura
 
-| Camada | Arquivo | Papel |
-|---|---|---|
-| Canônico | `initiatives/<slug>/summary.md` | Fonte principal da iniciativa |
-| Visão de decisão | `decisions/<slug>.md` | Consequências, trade-offs e critérios |
-| Visão temporal | `timeline/<date>-<slug>.md` | Marco, status atual e próximos passos |
+| Camada           | Arquivo                         | Papel                                 |
+| ---------------- | ------------------------------- | ------------------------------------- |
+| Canônico         | `initiatives/<slug>/summary.md` | Fonte principal da iniciativa         |
+| Visão de decisão | `decisions/<slug>.md`           | Consequências, trade-offs e critérios |
+| Visão temporal   | `timeline/<date>-<slug>.md`     | Marco, status atual e próximos passos |
 
 Regra editorial:
 
@@ -81,8 +81,8 @@ flowchart LR
 
 ## Operação contínua
 
-- Ritual quinzenal: `docs/ritual-quinzenal-decisao.md`
-- Indicadores de efetividade: `docs/indicadores-efetividade.md`
+- Ritual quinzenal: [docs/ritual-quinzenal-decisao.md](docs/ritual-quinzenal-decisao.md)
+- Indicadores de efetividade: [docs/indicadores-efetividade.md](docs/indicadores-efetividade.md)
 
 ## Como o conteúdo chega aqui
 

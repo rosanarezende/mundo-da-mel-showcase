@@ -4,11 +4,11 @@ Este documento mede se o showcase está ajudando de fato a decidir melhor e redu
 
 ## Indicadores mínimos
 
-| Indicador | Definição | Como medir | Meta inicial |
-|---|---|---|---|
-| Tempo de contexto | Tempo para entender uma iniciativa do zero | média de minutos em revisão quinzenal | <= 10 min |
-| Reuso de decisão | Quantas decisões viraram padrão em outro projeto | contagem por ciclo | >= 1 por ciclo |
-| Retrabalho evitado | Casos em que uma lição evitou repetir erro | contagem com evidência | >= 1 por ciclo |
+| Indicador          | Definição                                        | Como medir                            | Meta inicial   |
+| ------------------ | ------------------------------------------------ | ------------------------------------- | -------------- |
+| Tempo de contexto  | Tempo para entender uma iniciativa do zero       | média de minutos em revisão quinzenal | <= 10 min      |
+| Reuso de decisão   | Quantas decisões viraram padrão em outro projeto | contagem por ciclo                    | >= 1 por ciclo |
+| Retrabalho evitado | Casos em que uma lição evitou repetir erro       | contagem com evidência                | >= 1 por ciclo |
 
 ## Método de coleta
 

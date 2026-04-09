@@ -6,7 +6,7 @@ Esta é a visão de decisão do case canônico.
 
 Fonte principal:
 
-- `../initiatives/showcase-public-repo-automation/summary.md`
+- [../initiatives/showcase-public-repo-automation/summary.md](../initiatives/showcase-public-repo-automation/summary.md)
 
 Objetivo desta página:
 
@@ -22,11 +22,11 @@ Objetivo desta página:
 
 ## Trade-offs da decisão
 
-| Opção | Ganho principal | Custo/Risco principal |
-|---|---|---|
-| Abrir repositório inteiro | Vitrine mais técnica | Alto risco de exposição operacional |
-| Copiar manualmente casos | Controle editorial total | Alto esforço e baixa escalabilidade |
-| Publicar decisões + roadmap | Segurança e sustentabilidade | Showcase inicial menos técnico |
+| Opção                       | Ganho principal              | Custo/Risco principal               |
+| --------------------------- | ---------------------------- | ----------------------------------- |
+| Abrir repositório inteiro   | Vitrine mais técnica         | Alto risco de exposição operacional |
+| Copiar manualmente casos    | Controle editorial total     | Alto esforço e baixa escalabilidade |
+| Publicar decisões + roadmap | Segurança e sustentabilidade | Showcase inicial menos técnico      |
 
 ```mermaid
 flowchart TD
@@ -51,5 +51,5 @@ O showcase público deixou de ser apenas ideia de portfólio e passou a operar c
 
 ## Referência interna
 
-- Iniciativa: `../initiatives/showcase-public-repo-automation/summary.md`
-- Timeline: `../timeline/2026-04-08-showcase-public-repo-automation.md`
+- Iniciativa: [../initiatives/showcase-public-repo-automation/summary.md](../initiatives/showcase-public-repo-automation/summary.md)
+- Timeline: [../timeline/2026-04-08-showcase-public-repo-automation.md](../timeline/2026-04-08-showcase-public-repo-automation.md)
