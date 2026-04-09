@@ -53,5 +53,7 @@ O fluxo foi validado de ponta a ponta, incluindo geração dos artefatos públic
 
 ## Visões desta iniciativa
 
-- Decisão: `decisions/showcase-public-repo-automation.md`
-- Timeline: `timeline/2026-04-08-showcase-public-repo-automation.md`
+- Decisão: `../../decisions/showcase-public-repo-automation.md`
+- Timeline: `../../timeline/2026-04-08-showcase-public-repo-automation.md`
+- Índice de impacto: `../../decisions/decision-impact-index.md`
+- ADRs relacionados: `../../adrs/`

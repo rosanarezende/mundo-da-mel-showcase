@@ -17,3 +17,7 @@ Recomendado incluir:
 - quadro de trade-offs
 - consequências esperadas
 - referência explícita para iniciativa e timeline
+
+Arquivos de apoio desta pasta:
+
+- `decision-impact-index.md` — cadeia decisão -> ação -> resultado com lições reutilizáveis

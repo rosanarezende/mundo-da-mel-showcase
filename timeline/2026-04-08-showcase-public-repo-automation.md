@@ -23,7 +23,7 @@ O trade-off principal deste marco foi priorizar segurança e repetibilidade (dec
 
 Detalhamento completo:
 
-- `decisions/showcase-public-repo-automation.md`
+- `../decisions/showcase-public-repo-automation.md`
 
 ## Próximo passo
 
@@ -31,5 +31,5 @@ Expandir a vitrine com novos cases de produto, growth, conteúdo ou governança 
 
 ## Referências
 
-- Iniciativa canônica: `initiatives/showcase-public-repo-automation/summary.md`
-- Visão de decisão: `decisions/showcase-public-repo-automation.md`
+- Iniciativa canônica: `../initiatives/showcase-public-repo-automation/summary.md`
+- Visão de decisão: `../decisions/showcase-public-repo-automation.md`

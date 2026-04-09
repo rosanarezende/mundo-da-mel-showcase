@@ -42,6 +42,8 @@ O que ele demonstra:
 2. Leia a iniciativa em destaque em `initiatives/showcase-public-repo-automation/summary.md`
 3. Aprofunde a decisão correspondente em `decisions/showcase-public-repo-automation.md`
 4. Use `timeline/` para acompanhar a evolução ao longo do tempo
+5. Consulte o índice de impacto em `decisions/decision-impact-index.md`
+6. Reaplique padrões em `adrs/`
 
 ## Arquitetura canônica de leitura
 
@@ -63,8 +65,9 @@ flowchart LR
 	A[Roadmap] --> B[Iniciativa canônica]
 	B --> C[Visão de decisão]
 	B --> D[Visão temporal]
-	C --> E[Aprendizados reutilizáveis]
+	C --> E[Índice decisão -> ação -> resultado]
 	D --> E
+	E --> F[ADRs reutilizáveis]
 ```
 
 ## Estrutura
@@ -72,6 +75,7 @@ flowchart LR
 - `roadmap/now-next-later.md`
 - `initiatives/`
 - `decisions/`
+- `adrs/`
 - `timeline/`
 - `docs/`
 

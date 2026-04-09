@@ -6,7 +6,7 @@ Esta é a visão de decisão do case canônico.
 
 Fonte principal:
 
-- `initiatives/showcase-public-repo-automation/summary.md`
+- `../initiatives/showcase-public-repo-automation/summary.md`
 
 Objetivo desta página:
 
@@ -51,5 +51,5 @@ O showcase público deixou de ser apenas ideia de portfólio e passou a operar c
 
 ## Referência interna
 
-- Iniciativa: `initiatives/showcase-public-repo-automation/summary.md`
-- Timeline: `timeline/2026-04-08-showcase-public-repo-automation.md`
+- Iniciativa: `../initiatives/showcase-public-repo-automation/summary.md`
+- Timeline: `../timeline/2026-04-08-showcase-public-repo-automation.md`
