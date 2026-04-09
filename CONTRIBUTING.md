@@ -58,6 +58,9 @@ Isso inclui PRs criados a partir do fluxo do repositório private.
 - se estiver em `main`, criar branch dedicada e só depois editar
 - fazer commits incrementais por unidade lógica
 - não versionar artefatos operacionais locais (ex.: `bp-*.json`)
+- criar arquivo temporário de continuidade em `.ai-runtime/active-plan.md` ao iniciar plano
+- atualizar `.ai-runtime/active-plan.md` a cada checkpoint relevante
+- remover `.ai-runtime/active-plan.md` ao finalizar o plano
 - abrir PR sempre em modo Draft com descrição completa
 - converter Draft para Ready somente após validação da Rosana
 

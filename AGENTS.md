@@ -11,6 +11,9 @@ Este arquivo define o fluxo obrigatorio para qualquer IA neste repositorio.
 5. Abrir PR sempre em modo Draft, com titulo e descricao completos.
 6. Incluir issue vinculada quando aplicavel e explicitar objetivo editorial/operacional do PR.
 7. Converter Draft para Ready somente apos validacao da Rosana.
+8. Criar e manter o arquivo temporario local de continuidade em `.ai-runtime/active-plan.md` para cada plano em andamento.
+9. Atualizar `.ai-runtime/active-plan.md` a cada checkpoint relevante e remover o arquivo ao finalizar o plano correspondente.
+10. Para comandos `gh` e operacoes de rede/API: tentar sandbox uma vez; se falhar por limitacao de ambiente, repetir imediatamente fora do sandbox com justificativa registrada.
 
 ## Referencias obrigatorias
 

@@ -14,5 +14,6 @@ Antes de mergear um PR neste repositório, revisar:
 - formatação validada com Prettier
 - guardrails de conteúdo validados no CI
 - links internos de markdown válidos
+- `.ai-runtime/active-plan.md` removido quando o plano do ciclo estiver finalizado
 - ausência de dados sensíveis
 - consistência com o posicionamento da vitrine
