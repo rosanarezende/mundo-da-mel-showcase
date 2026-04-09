@@ -11,5 +11,6 @@ Antes de mergear um PR neste repositório, revisar:
 - presença de impacto observado com evidência e data
 - atualização do índice decisão -> ação -> resultado quando houver novas decisões
 - coerência com ritual quinzenal e indicadores de efetividade
+- formatação validada com Prettier
 - ausência de dados sensíveis
 - consistência com o posicionamento da vitrine

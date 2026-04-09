@@ -31,6 +31,17 @@ Exemplos:
 - preferir textos curtos, concretos e rastreáveis
 - manter títulos e descrições em PT-BR
 
+## Formatação (Prettier)
+
+Este repositório usa Prettier para manter consistência de markdown e docs.
+
+Comandos sugeridos:
+
+- checar: `npx --yes prettier@3 --check .`
+- formatar: `npx --yes prettier@3 --write .`
+
+Aplicar antes de abrir PR quando houver mudanças em docs.
+
 
 ## Workflow obrigatório para IA
 
