@@ -35,12 +35,22 @@ Exemplos:
 
 Este repositório usa Prettier para manter consistência de markdown e docs.
 
-Comandos sugeridos:
+Comandos padrão:
 
-- checar: `npx --yes prettier@3 --check .`
-- formatar: `npx --yes prettier@3 --write .`
+- formatar: `bash scripts/format.sh`
+- validar tudo (formatação + conteúdo): `bash scripts/check.sh`
 
 Aplicar antes de abrir PR quando houver mudanças em docs.
+
+## Guardrails no CI
+
+Todo PR para `main` valida automaticamente:
+
+- formatação com Prettier (`.github/workflows/prettier-check.yml`)
+- regras de conteúdo do showcase (`.github/workflows/content-guardrails.yml`)
+- consistência de links internos em markdown
+
+Isso inclui PRs criados a partir do fluxo do repositório private.
 
 ## Workflow obrigatório para IA
 
