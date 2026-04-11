@@ -23,6 +23,12 @@ Regra de leitura:
   - Índice de impacto: [../decisions/decision-impact-index.md](../decisions/decision-impact-index.md)
   - Padrões reutilizáveis: [../adrs/README.md](../adrs/README.md)
 
+- [Monitoramento Hotmart com dashboard interno e fallback de cupom](../initiatives/hotmart-monitoramento-dashboard-cupom/summary.md) — Entrega focada em confiabilidade operacional para reduzir risco de atribuicao comercial e acelerar diagnostico de pendencias de entrega.
+  - Visão de decisão: [../decisions/hotmart-monitoramento-dashboard-cupom.md](../decisions/hotmart-monitoramento-dashboard-cupom.md)
+  - Visão temporal: [../timeline/2026-04-11-hotmart-monitoramento-dashboard-cupom.md](../timeline/2026-04-11-hotmart-monitoramento-dashboard-cupom.md)
+  - Índice de impacto: [../decisions/decision-impact-index.md](../decisions/decision-impact-index.md)
+  - Padrões reutilizáveis: [../adrs/README.md](../adrs/README.md)
+
 ## Next
 
 - Nenhuma iniciativa pública em Next ainda.
