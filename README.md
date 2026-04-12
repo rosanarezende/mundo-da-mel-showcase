@@ -23,6 +23,18 @@ O que ele demonstra:
 - evolução de governança, não só de código
 - preocupação com segurança, narrativa e manutenção de longo prazo
 
+## Novo case publicado
+
+### [Monitoramento Hotmart com dashboard interno e fallback de cupom](initiatives/hotmart-monitoramento-dashboard-cupom/summary.md)
+
+Este case mostra uma entrega orientada a confiabilidade operacional: reforco de atribuicao comercial no webhook, visibilidade com dashboard interno e disciplina de governanca no PR.
+
+O que ele demonstra:
+
+- capacidade de atacar risco operacional sem perder velocidade de entrega
+- uso de guardrails de spec para manter narrativa e rastreabilidade
+- validacao tecnica orientada a reducao de erro antes de merge em main
+
 ## O que este repositório mostra
 
 - contexto de negócio e problema atacado
