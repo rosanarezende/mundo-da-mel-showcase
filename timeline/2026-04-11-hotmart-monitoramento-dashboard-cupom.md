@@ -6,7 +6,7 @@ Consolidacao de um ciclo de confiabilidade operacional com correcoes de atribuic
 
 ## Status atual
 
-- Status: concluido no PR e pronto para escala operacional
+- Status: concluido no branch e em validacao final no PR #87 (Draft)
 - Horizonte: Now
 - Proximo foco: institucionalizar smoke test de integracao para reduzir risco de ambiente em validacoes futuras
 
@@ -14,7 +14,8 @@ Consolidacao de um ciclo de confiabilidade operacional com correcoes de atribuic
 flowchart LR
   M1[11/04: hardening webhook e dashboard] --> M2[11/04: CI com spec compliance ajustado]
   M2 --> M3[11/04: validacao focada dos testes Hotmart]
-  M3 --> M4[Proximo: smoke test operacional recorrente]
+  M3 --> M4[11/04: deduplicacao webhook + fallback de credenciais no preview]
+  M4 --> M5[Proximo: smoke test operacional recorrente]
 ```
 
 ## Trade-offs do marco

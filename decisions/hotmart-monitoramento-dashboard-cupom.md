@@ -45,8 +45,8 @@ Aumentar confiabilidade da operacao de vendas e reduzir tempo de resposta para c
 ## Resultado observado
 
 - check de spec compliance estabilizado apos nova execucao com payload atualizado
-- checks de CI concluidos com sucesso no PR
-- validacoes direcionadas de webhook, dashboard e monitoramento com testes passando
+- checks de CI seguem verdes no PR #87 (SDD guardrails, testes/type-check, e2e e deploy)
+- hardening complementar no mesmo ciclo: deduplicacao de evento no webhook e fallback de credenciais para reduzir falha de OAuth em preview
 
 ## IA Input
 

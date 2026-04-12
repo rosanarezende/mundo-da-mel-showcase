@@ -39,9 +39,9 @@ Reduzir erro de atribuicao comercial, acelerar diagnostico de pendencias de entr
 
 ## Impacto observado
 
-- PR com checks criticos verdes (spec compliance, testes, type-check, e2e e deploy)
-- validacao focada dos blocos Hotmart com testes passando no repositorio privado
-- identificacao explicita de risco operacional de ambiente (acesso ao host de sandbox) antes do merge
+- 11/04: PR #87 com checks criticos verdes (spec compliance, testes, type-check, e2e e deploy)
+- 11/04 (noite): hardening complementar publicado no branch com deduplicacao de eventos no webhook e reforco do fallback de credenciais no preview
+- risco operacional de ambiente (sandbox) saiu de ponto cego para monitoramento ativo com mitigacoes implementadas
 
 ## IA Input
 
@@ -55,7 +55,7 @@ Reduzir erro de atribuicao comercial, acelerar diagnostico de pendencias de entr
 
 - Horizonte: Now
 - Origem: case derivado do PR #87 do repositorio privado Mundo da Mel
-- Situacao atual: pronto para comunicacao publica como case de confiabilidade operacional
+- Situacao atual: pronto para comunicacao publica; PR #87 segue em Draft aguardando validacao final da Rosana
 
 ## Visoes desta iniciativa
 
